@@ -16,7 +16,6 @@ public class UserInputOutput {
 
 		if (Character.isUpperCase(input)) {
 			System.out.println(1);
-			;
 		} else if (Character.isLowerCase(input)) {
 			System.out.println(0);
 		} else {
