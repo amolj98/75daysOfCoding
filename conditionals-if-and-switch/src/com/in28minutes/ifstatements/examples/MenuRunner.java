@@ -27,6 +27,11 @@ public class MenuRunner {
 		performOperationUsingSwitch(number1, number2, choice);
 	}
 
+	/**
+	 * @param number1
+	 * @param number2
+	 * @param choice
+	 */
 	private static void performOperationUsingSwitch(int number1, int number2, int choice) {
 		switch (choice) {
 		case 1:
